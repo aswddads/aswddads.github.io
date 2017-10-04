@@ -93,11 +93,11 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "Apple",
-        href: "https://apple.com"
-    },{
+   {
         title: "Android Developer",
         href: "https://developer.android.com/"
+    },{
+        title: "Apple",
+        href: "https://apple.com"
     }
 ]
